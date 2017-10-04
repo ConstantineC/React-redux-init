@@ -1,13 +1,13 @@
 {
-  "name": "react-chat",
+  "name": "react-redux-starter",
   "version": "1.0.0",
-  "description": "",
+  "description": "React-redux starter for future development",
   "main": "webpack.config.js",
   "scripts": {
     "dev": "node_modules/.bin/webpack-dev-server",
     "prod": "cross-env NODE_ENV=production webpack -p"
   },
-  "author": "",
+  "author": "Constantine Solovei",
   "license": "ISC",
   "devDependencies": {
     "babel-cli": "^6.26.0",
